@@ -5,7 +5,7 @@ import StrategyPattern.Cars.Car;
 import StrategyPattern.Cars.Lada;
 import StrategyPattern.Cars.RangeRover;
 
-public class Testing_The_Patterns {
+public class Test {
 
     public static void main(String[] args)
     {
