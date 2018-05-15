@@ -1,25 +1,12 @@
 package FactoryAndCompositePattern;
 
-public class LightTank implements Tank {
-    private int damage = 10;
-    private int speed = 100;
-    private String name = "Light tank";
+public class LightTank extends Tank {
+
 
     public LightTank(){
-        System.out.println(name + " has been built");
+        this.setDamage(10);
+        this.setName("Light tank");
+        this.setSpeed(100);
+        this.displayTank();
     }
-
-    @Override
-    public void shoot() {
-        System.out.println(this.name + " SHOOTS and does " + damage + " damage");
-    }
-
-    @Override
-    public void drive(int distance) {
-        System.out.println(this.name + " drives " + distance + " with the speed " + speed + "km/h");
-    }
-
-
-
-
 }

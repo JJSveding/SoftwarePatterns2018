@@ -4,7 +4,7 @@ package FactoryAndCompositePattern;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TankDivision_Composite implements Tank {
+public class TankDivision_Composite implements TankInterface {
     List<Tank> tankDivision;
     private String name = null;
 
@@ -12,14 +12,10 @@ public class TankDivision_Composite implements Tank {
         tankDivision = new ArrayList<>();
     }
 
-    //Method overloading
-    public TankDivision_Composite(String name){
-        tankDivision = new ArrayList<>();
-        this.name = name;
-    }
 
     public void add(Tank element) {
         tankDivision.add(element);
+        System.out.println("Tank "+tankDivision.size()+" has been added to the division "+getDisivisionNameIfSet());
     }
 
     public void remove(Tank element) {
@@ -28,7 +24,8 @@ public class TankDivision_Composite implements Tank {
 
     @Override
     public void shoot()  {
-        System.out.println(getDisivisionNameIfSet(name)+" FIRE!");
+        sleep();
+        System.out.println(getDisivisionNameIfSet()+" FIRE!");
         sleep();
         tankDivision.forEach((element) -> {
             element.shoot();
@@ -37,7 +34,8 @@ public class TankDivision_Composite implements Tank {
 
     @Override
     public void drive(int distance) {
-        System.out.println(getDisivisionNameIfSet(name)+" drive "+distance+" meters forward");
+        sleep();
+        System.out.println(getDisivisionNameIfSet()+" drive "+distance+" meters forward");
         sleep();
         tankDivision.forEach((element) -> {
             element.drive(distance);
@@ -45,9 +43,9 @@ public class TankDivision_Composite implements Tank {
     }
 
 
-    public String getDisivisionNameIfSet(String name)
+    public String getDisivisionNameIfSet()
     {
-        if(name!= null){
+        if(this.name!= null){
             return this.name;
         }
 
@@ -61,5 +59,13 @@ public class TankDivision_Composite implements Tank {
         }catch (InterruptedException e){
             //Nothing
         }
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }

@@ -14,10 +14,13 @@ public class TankFactory {
         if (typeOfTank.equalsIgnoreCase("heavy")) {
 
             return new HeavyTank();
-        } else if (typeOfTank.equalsIgnoreCase("light")) {
-            return new LightTank();
-        } else //Should be unreachable
+        } else if(typeOfTank.equalsIgnoreCase("medium"))
         {
+            return new MediumTank();
+        }else if (typeOfTank.equalsIgnoreCase("light")) {
+            return new LightTank();
+        }
+        else{
             return null;
         }
 
