@@ -5,7 +5,7 @@ import ObserverPattern.Concrete.Observer_Jens;
 import ObserverPattern.Concrete.Observer_Saiful;
 import ObserverPattern.Concrete.Subject_YoutubeChannel;
 
-public class TestObserverPattern {
+public class Test {
 
     public static void main(String[] args){
 
