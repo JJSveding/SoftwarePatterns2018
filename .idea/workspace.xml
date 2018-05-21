@@ -1,56 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d1b028a-4cca-464b-88f5-3c891b81afa6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/ConcreteTanks/HeavyTank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/ConcreteTanks/LightTank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/ConcreteTanks/MediumTank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/Tank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/TankArmy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/TankInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/FactoryPattern/TankFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/ObserverPattern/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/X_Battleground.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/X_Test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/FactoryAndCompositePattern/HeavyTank.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/FactoryAndCompositePattern/LightTank.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/FactoryAndCompositePattern/MediumTank.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/FactoryAndCompositePattern/Tank.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/FactoryAndCompositePattern/TankDivision_Composite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/FactoryAndCompositePattern/TankFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/FactoryAndCompositePattern/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Concrete/Observer_Edgaras.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Concrete/Observer_Jens.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Concrete/Observer_Saiful.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Concrete/Subject_YoutubeChannel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Observer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Subject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/ObserverPattern/Video.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/HeavyTank.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/LightTank.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/MediumTank.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/Tank.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/TankDivision_Composite.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/TankFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/TankInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FactoryAndCompositePattern/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Concrete/Observer_Edgaras.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Concrete/Observer_Jens.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Concrete/Observer_Saiful.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Concrete/Subject_YoutubeChannel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Observer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Video.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/CarDriveBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/CarHonkBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/LadaHonk.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/RangeRoverHonk.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/Cars/Car.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/Cars/Lada.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/Cars/RangeRover.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/StrategyPattern/Test.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ObserverPattern/Subject.java" afterPath="$PROJECT_DIR$/src/FactoryAndCompositePattern/ObserverPattern/Subject.java" />
+    <list default="true" id="1d1b028a-4cca-464b-88f5-3c891b81afa6" name="Default" comment="Let the tank battle begin.&#10;Updated the tank project to contain all 4 design patterns">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/CarBehaviours/CarDriveBehaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/CarBehaviours/CarHonkBehaviour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/CarBehaviours/LadaHonk.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/CarBehaviours/RangeRoverHonk.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/Cars/Car.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/Cars/Lada.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/Cars/RangeRover.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Design patterns/StrategyPattern/Test.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,120 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/Tank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="55" column="34" lean-forward="false" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AttackBehaviour.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/AttackBehaviour.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TankArmy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/TankArmy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
-              <folding>
-                <element signature="e#3429#3430#0" expanded="true" />
-                <element signature="e#3471#3472#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeavyTankMissiles.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/ConcreteAttackBehaviours/HeavyTankMissiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TankFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/FactoryPattern/TankFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-357">
-              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding>
-                <element signature="method#TankFactory#0;class#TankFactory#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/Utility.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="X_Battleground.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/X_Battleground.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TankInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/TankInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TankMissiles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/TankMissiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TankMachinegun.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/TankMachinegun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="103" lean-forward="false" selection-start-line="39" selection-start-column="103" selection-end-line="39" selection-end-column="103" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -277,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1378" />
@@ -301,7 +147,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,9 +200,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -622,7 +468,8 @@
       <workItem from="1526403448952" duration="10485000" />
       <workItem from="1526512487528" duration="2721000" />
       <workItem from="1526597373020" duration="327000" />
-      <workItem from="1526923764115" duration="7080000" />
+      <workItem from="1526923764115" duration="7213000" />
+      <workItem from="1526940765956" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="Renaming demo classes">
       <created>1526403606013</created>
@@ -638,41 +485,47 @@
       <option name="project" value="LOCAL" />
       <updated>1526403636694</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Let the tank battle begin.&#10;Updated the tank project to contain all 4 design patterns">
+      <created>1526940667031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526940667031</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61418000" />
+    <option name="totallyTimeSpent" value="61628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40536278" sideWeight="0.50292826" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34700316" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34700316" sideWeight="0.49707174" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -686,7 +539,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Renaming demo classes" />
     <MESSAGE value="Renaming demo classes2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming demo classes2" />
+    <MESSAGE value="Let the tank battle begin.&#10;Updated the tank project to contain all 4 design patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Let the tank battle begin.&#10;Updated the tank project to contain all 4 design patterns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -695,6 +549,95 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="55" column="34" lean-forward="false" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/AttackBehaviour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/TankArmy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+          <folding>
+            <element signature="e#3429#3430#0" expanded="true" />
+            <element signature="e#3471#3472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/FactoryPattern/TankFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="method#TankFactory#0;class#TankFactory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/X_Battleground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/TankInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/TankMissiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/TankMachinegun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="39" column="103" lean-forward="false" selection-start-line="39" selection-start-column="103" selection-end-line="39" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/ConcreteAttackBehaviours/HeavyTankMissiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/Tank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -707,10 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#424#425#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -718,10 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,10 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,71 +671,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="20" column="79" lean-forward="true" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
-          <folding />
+          <folding>
+            <element signature="method#TankFactory#0;class#TankFactory#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/CarHonkBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/RangeRoverHonk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/ObserverPattern/TankBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Cars/Lada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Cars/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/CarDriveBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/LadaHonk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/CarHonkBehaviour.java" />
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/RangeRoverHonk.java" />
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/ObserverPattern/TankBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Cars/Lada.java" />
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Cars/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/CarDriveBehaviour.java" />
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/CarBehaviours/LadaHonk.java" />
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/ObserverPattern/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,9 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,9 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,9 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,10 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -853,10 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,10 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,17 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/FactoryPattern/TankFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="method#TankFactory#0;class#TankFactory#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -915,7 +765,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/TankMachinegun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="646">
           <caret line="39" column="103" lean-forward="false" selection-start-line="39" selection-start-column="103" selection-end-line="39" selection-end-column="103" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -925,7 +775,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/TankMissiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="391">
           <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -935,7 +785,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/Tank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
+        <state relative-caret-position="782">
           <caret line="55" column="34" lean-forward="false" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
           <folding />
         </state>
@@ -943,26 +793,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/X_Battleground.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="323">
           <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/Utility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/CompositePattern/TankArmy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="1309">
           <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
           <folding>
             <element signature="e#3429#3430#0" expanded="true" />
@@ -973,8 +812,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/StrategyPattern/ConcreteAttackBehaviours/HeavyTankMissiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/FactoryPattern/TankFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="method#TankFactory#0;class#TankFactory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryAndCompositePattern/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
       </provider>
